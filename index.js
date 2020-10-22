@@ -1,5 +1,3 @@
-// You can use 'exec' this way
-
 const { exec } = require('child_process');
 const fs = require('fs');
 
